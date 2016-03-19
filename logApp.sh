@@ -28,7 +28,7 @@ function sendImg(){
     echo '<image>'$DATE$EXTENS'</image>' >> $DIR$TEMP
 }
 
-function log(){
+function tmb(){
     
     DATE=`date +%Y-%m-%d__%H:%M:%S`
     if [ $1 = -c ]
