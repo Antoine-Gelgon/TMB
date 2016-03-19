@@ -1,0 +1,156 @@
+@font-face{
+    font-family:'Career';
+    //src:url('Rubik-Regular.ttf');
+    src:url('Career_Salle13.ttf');
+}
+
+@font-face{
+    font-family:'Hack';
+    src:url('Hack-Bold.ttf');
+}
+
+body{
+    background:WhiteSmoke;
+    font-family:'Career';
+    color: DarkBlue;
+}
+
+.contenu{
+    width:75%;
+    padding:10px;
+
+}
+
+.contenu img{
+    width:auto;
+    max-width:100%;
+    height:auto;
+    text-align:center;
+    margin-top:5px;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.contenu img:hover{
+    -webkit-filter: none;
+    -moz-filter: none;
+    -o-filter: none;
+    -ms-filter: none;
+    filter: none;
+}
+
+.date{
+    letter-spacing:2px;
+    font-size: 8pt;
+    font-family:courier;
+}
+
+.col-droit{
+    left:88%;
+    height: auto;
+    bottom:0px;
+    padding:10px;
+    top:0px;
+    right:0px;
+    font-size:12px;
+    font-family:courier;
+    position:fixed;
+    border-left:1px solid darkblue
+}
+
+.col{
+    font-size:14px;
+    width:22%;
+    top:16px;
+    padding-right:10px;
+    bottom:20px;
+    overflow:hidden;
+    position:fixed;
+}
+
+.colInt{
+    overflow-y:scroll;
+    width:100%;
+    padding-right:27px;
+    height:100%;
+}
+.colZoom{
+    text-align:center;
+    top:16px;
+    margin-top:0px;
+    bottom:20px;
+    font-size:30px;
+    left:25%;
+    right:12%;
+    overflow:hidden;
+    position:fixed;
+}
+
+.colZoomInt{
+    overflow-y:scroll;
+    width:100%;
+    padding-right:27px;
+    height:100%;
+}
+
+.date{
+    border-left:1px solid darkblue;
+    border-top:1px solid darkblue;
+    width:200px;
+
+}
+ .images, .text{
+
+}
+.note{
+    -webkit-column-break-inside: avoid;
+	break-inside: avoid;
+    //outline:1px solid green;
+    margin-bottom:20px;
+}
+
+header{
+    width:100%;
+    height:auto;
+    bottom:5px;
+    position:fixed;
+    letter-spacing:1px;
+    font-size: 8pt;
+    font-family:courier;
+}
+
+header span{
+    width:auto;
+    border-left: 1px solid black;
+}
+header span b{
+    border-bottom:1px solid black
+}
+
+.col-droit a{
+    text-decoration:none;
+    bottom:20px;
+    font-family:courier;
+    text-transform:uppercase;
+}
+.contenu a{
+    color:#5D0B0B;
+}
+
+code{
+    font-size:14px;
+    font-family: 'Hack';
+    font-weight:bold;
+    color:darkgreen;
+    border: 1px solid;
+}
+
+.col code{
+    font-size:14px;
+}
+
+.colZoom code{
+    font-size:24px;
+}

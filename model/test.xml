@@ -1,0 +1,27 @@
+<item>
+	<meta>
+	    <titre>test</titre>
+	    <description>ceci est un test</description>
+	    <tags>essay, test, sans complexe</tags>
+	    <creationdate>19:25:58_2016-03-07</creationdate>
+	    <modificationdate>19:28:14_2016-03-07</modificationdate>
+	    <notecount>3</notecount>
+	</meta>
+	<notes>
+	<note>
+		<id>1</id>
+		<creationdate>19:26:57_2016-03-07</creationdate>
+		<contenu>Use : as the input field separator and print first field only i.e. usernames (will print the the first field. all other fields are ignored):</contenu>
+	    </note>
+	<note>
+		<id>2</id>
+		<creationdate>19:27:29_2016-03-07</creationdate>
+		<contenu>Mais en toute logique, quand les navigateurs rencontrent des balise</contenu>
+	    </note>
+	<note>
+		<id>3</id>
+		<creationdate>19:28:14_2016-03-07</creationdate>
+		<contenu>énervé, il jetta</contenu>
+	    </note>
+	</notes>
+</item>

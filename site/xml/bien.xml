@@ -1,0 +1,28 @@
+<item>
+	<meta>
+	    <titre>bien</titre>
+	    <description>ceci est bien</description>
+	    <tags>lecture, test, écriture</tags>
+	    <creationdate>2016-03-08__15:49:24</creationdate>
+	    <modificationdate>2016-03-08__16:06:15</modificationdate>
+	    <notecount>5</notecount>
+	</meta>
+	<notes>
+	<note>
+		<id>1</id>
+		<creationdate>2016-03-08__15:50:53</creationdate>
+		<contenu>Gilbert Simondon fait ses études secondaires au lycée de Saint-Étienne, sa ville natale, et a tôt l’occasion de fréquenter le milieu industriel, de discuter avec des ingénieurs, de s’intéresser à l’invention scientifique et technologique et à la manière dont les innovations sont reçues au sein de la société</contenu>
+<image>2016-03-08__15:50:537067</image>
+	    </note>
+	<note>
+		<id>2</id>
+		<creationdate>2016-03-08__15:57:20</creationdate>
+		<contenu>André Leroi-Gourhan (25 août 1911 à Paris - 19 février 1986 à Paris) est un ethnologue, archéologue et historien français, spécialiste de la Préhistoire. Cest</contenu>
+	    </note>
+	<note>
+		<id>3</id>
+		<creationdate>2016-03-08__16:01:11</creationdate>
+		<contenu>En 1969, dans Perceptrons, coécrit avec Seymour Papert pour critiquer Frank Rosenblatt, il a montré les limites des réseaux de neurones de type perceptron, http://antoine-gelgon.fr/log/page.php notamment https://github.com/Antoine-Gelgon/Ocr-PBI l’impossibilité de traiter des problèmes non linéaires ou de connexité. [c]Ceci a eu pour conséquence de drainer lessentiel[/c]</contenu>
+	    </note>
+	</notes>
+</item>
